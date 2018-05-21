@@ -32,3 +32,9 @@ native-country: United-States, Cambodia, England, Puerto-Rico, Canada, Germany, 
 
 
 Our target is to predict the people who earn more than 50,000$ annually.
+
+Here finding_donor.ipynb is the main file which contains all the executable code.
+
+Census.csv contains the dataset.
+
+Visuals.py contains all the required for data visuallisation.
